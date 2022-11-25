@@ -13,7 +13,7 @@ Este repositorio es presentado por los estudiantes de la asignatura Inteligencia
 - ROS Melodic.
 - Python.
 
-##  Configuracion de la Jetson Nano.
+##  Configuración de la Jetson Nano.
 - Primero se procede a configurar NVIDIA Jetson NANO, el cual se puede proceder a la guía que facilita la pagina oficial de NVIDIA. 
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
