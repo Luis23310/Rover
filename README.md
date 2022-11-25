@@ -18,19 +18,19 @@ Este repositorio es presentado por los estudiantes de la asignatura Inteligencia
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 ##  Configuración del Router.
 - Primero se debe estar conectado a la red del dispositivo a programar, en nuestro caso contamos con el tplink AC750 WI-FI Travel Router. 
-![My Image](home/luis/imagenes repo/router.jpeg)
+![My Image](Desktop/luis/imagenes repo/router.jpeg)
 
 - Luego se debe ingresar a la pagina de tplink, el cual se hace de la siguiente forma:
 ```http //tplinkwifi.net```
 
 - Al ingresar al link descrito anteriormente les saldrá una pagina el cual les pedirá loguearse, el cual tanto el usuario como la contraseña sera  ```admin```. Como se presentara a continuación.
-![My Image](home/luis/imagenes repo/paginaweb.jpeg)
+![My Image](Desktop/luis/imagenes repo/paginaweb.jpeg)
 
 - Al momento de loguearse, saldra una interfaz como la siguiente:
-![My Image](home/luis/imagenes repo/interfaz.jpeg)
+![My Image](Desktop/luis/imagenes repo/interfaz.jpeg)
 
 - Para configurar la red del tplink, se debe presentar la red la cual va a suministrar la red de internet, da 2 opciones, una de ```Wireless Settings(2.4GHz)``` o ```Wireless Settings(5GHz)```. Ya al momento de escoger el Wireless Settings, se pone configura la red la cual va a compartir la internet. En nuestro caso se utilizo ```Wireless Settings(2.4GHz)``` con la red de  ```IA_LAB```
-![My Image](home/luis/imagenes repo/final.jpeg)
+![My Image](Desktop/luis/imagenes repo/final.jpeg)
 
 - Para culminar, para guardar la red configurada, se da click en  ```Save``` y esperan un breve momento a que se configure el Router.
 
