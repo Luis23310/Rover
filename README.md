@@ -1,4 +1,4 @@
-# Repocitorio ROVER  
+# Repositorio ROVER IA2022B
 
 Este repositorio es presentado por los estudiantes de la asignatura Inteligencia Artificial 2022B de la Universidad de Ibagué. El cual presenta un ROVER el cual se basa en Robotic Operative System ROS y Python para generar su ejecución. 
 
